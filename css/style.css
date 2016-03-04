@@ -1,0 +1,75 @@
+body, html {
+    font-family: Open Sans,sans-serif;
+}
+
+h1{
+    font-size:64px;
+    font-weight:100;
+    margin-bottom:20px
+}
+
+.main {
+    background-image: url("../images/Teslacover.jpg");
+    background-size: cover;
+    height: 850px;
+    padding-bottom: 25px;
+    padding-top: 250px;
+}
+
+.overlay {
+    background: #000000;
+    color: #ffffff;
+    opacity: .7;
+}
+
+.main h1 {
+    padding: 10px 15px;
+    font-size: 135px;
+    line-height: .8;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.main p {
+    display: inline;
+    color: #000000;
+    font-size: 26px;
+    font-weight: 200;
+    background-color: #fff;
+    padding: 5px 75px;
+    opacity: .9;
+    margin-bottom: 40px;
+}
+
+.content-container .padding-down {
+    text-align: center;
+
+}
+
+.jumbotron {
+    margin-top: 25px;
+}
+
+.center-icon {
+    text-align: center;
+}
+
+.section-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.footer {
+    border-top: 1px solid #dbdbdb;
+    background-color: #f3f3f3;
+    padding: 20px 0 25px;
+}
+
+.container {
+    max-width: 928px;
+}
+
+.fa {
+    padding-left: 10px;
+}
